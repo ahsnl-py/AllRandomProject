@@ -16,5 +16,5 @@ The game is simple and easy to play :)
 - Moving the ship: Press the arrow key Right and Left 
 - To shoot: Press the Space Bar
 
-##### Note to players.
+#### Note to players.
 The game is still under development. I will add more features as my programming skill develop. So stay tuned ;)
