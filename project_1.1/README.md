@@ -17,4 +17,4 @@ The game is simple and easy to play :)
 - To shoot: Press the Space Bar
 
 ### Note to players.
-The game is still under developing. I will add more feature as my skills develop. So stay tune ;)
+The game is still under developing. I will add more feature as my programming skill develop. So stay tune ;)
